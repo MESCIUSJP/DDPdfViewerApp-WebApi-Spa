@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="GrapeCity.DioDocs.Pdf.ViewerSupportApi.ja" Version="5.1.0.791" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="GrapeCity.DioDocs.Pdf.ViewerSupportApi.ja" Version="6.2.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
 </Project>
