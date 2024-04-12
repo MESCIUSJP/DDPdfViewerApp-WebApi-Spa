@@ -19,6 +19,6 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
-    "@grapecity/gcpdfviewer": "^4.2.2"
+    "@mescius/dspdfviewer": "^7.0.3"
   }
 }
